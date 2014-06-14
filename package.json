@@ -1,0 +1,10 @@
+{
+  "name": "ffprobe-win",
+  "version": "0.0.1",
+  "description": "Get stream/format informations of audio/video files with ffprobe.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:jeromedecoster/ffprobe-win.git"
+  },
+  "readme": "Get stream/format informations of audio/video files with ffprobe."
+}
